@@ -1,0 +1,7 @@
+OCR technology used : easyocr
+- streamlit : lal web app 
+- PIL : i used it to resize the image , eza badak tjareb l model version for this one <10.0
+- OpenCV : used to detect the text in the image and drawing rectangle around
+- numpy : to handle arrays and converting formats
+- tempfile + pdf2image : used to convert pdf file to images
+
